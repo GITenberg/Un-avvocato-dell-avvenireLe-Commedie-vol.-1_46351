@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43704'
     url: http://www.gutenberg.org/2009/agents/43704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46351#Un-avvocato-dell-avvenireLe-Commedie-vol.-1
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2014-07-21'
 gutenberg_type: Text
